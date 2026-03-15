@@ -1,10 +1,14 @@
-## Hi there 👋
+## Hi, I'm Kasper
+
+I'm a 4th semester undergraduate Economics student at Copenhagen University exploring my interests in Economic Research, maths and coding! I'll be uploading some of my personal projects, trying to answer questions that keep me up at night! 
+
+## Research Interests
+I have a special interest in Cultural-, Environmental-, Behavioral- and Development Economics.
+
+## Coding Languages
+I use python for all datascraping purposes and a mix of Python, Stata and Excel for data-analysis and data visualisation.
 
 <!--
-**KGSpindler/KGSpindler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
