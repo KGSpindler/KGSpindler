@@ -1,6 +1,6 @@
 ## Hi, I'm Kasper
 
-I'm a 4th semester undergraduate Economics student at Copenhagen University exploring my interests in Economic Research, Data Science, Maths and Coding! I'll be uploading some of my personal projects, trying to answer questions that keep me up at night! 
+I'm a 4th semester undergraduate Economics student at Copenhagen University exploring my interests in Economic Research, Data Science, Maths and Coding! I'll be uploading some of my personal projects, trying to answer questions that keep me up at night! After the summer I'll be at Vienna University on exchange!
 
 ## Research Interests
 I have a special interest in Cultural-, Environmental-, Behavioral- and Development Economics.
