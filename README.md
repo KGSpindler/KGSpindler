@@ -6,7 +6,7 @@ I'm a 4th semester undergraduate Economics student at Copenhagen University expl
 I have a special interest in Cultural-, Environmental-, Behavioral- and Development Economics.
 
 ## Coding Languages
-I use python for all datascraping purposes and a mix of Python, Stata and Excel for data-analysis and data visualisation.
+I use python for all datascraping purposes and a mix of Python, Stata and Excel for data-analysis and data visualisation. I often use Claude, Copilot and ChatGPT.
 
 <!--
 - 🔭 I’m currently working on ...
