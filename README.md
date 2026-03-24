@@ -5,8 +5,7 @@ I'm a 4th semester undergraduate Economics student at Copenhagen University expl
 ## Research Interests
 I have a special interest in Cultural-, Environmental-, Behavioral- and Development Economics.
 
-## Coding Languages
-I use python for all datascraping purposes and a mix of Python, Stata and Excel for data-analysis and data visualisation. I often use Claude, Copilot and ChatGPT.
+Check out my [portfolio](https://kgspindler.github.io/kasperspindler/), where I upload interactive dashboards associated with the projects im working on.
 
 <!--
 - 🔭 I’m currently working on ...
