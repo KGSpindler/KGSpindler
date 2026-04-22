@@ -5,7 +5,7 @@ I'm a 4th semester undergraduate Economics student at Copenhagen University expl
 ## Research Interests
 I have a special interest in Cultural-, Environmental-, Behavioral- and Development Economics.
 
-Check out my [portfolio](https://kgspindler.github.io/kasperspindler/), where I upload interactive dashboards associated with the projects im working on. In each project-site there is a link to the github repository so you can download the data used and verify my findings.
+Check out my [portfolio](https://kgspindler.github.io/kasperspindler/), where I upload interactive dashboards associated with the projects im working on. In each project-site there is a link to the github repository so you can download the data used.
 
 <!--
 - 🔭 I’m currently working on ...
